@@ -5,9 +5,7 @@ def using_while
 		puts "Wingardium Leviosa"
 		counter += 4
 
-	end 
+	end
 
 	#your code here
 end
-
-
